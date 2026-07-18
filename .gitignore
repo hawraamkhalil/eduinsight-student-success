@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual environment
+.venv/
+
+# Python-generated files
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw data
+data/raw/*.csv
+data/raw/*.zip
+
+# Environment and editor files
+.env
+.vscode/
+.DS_Store
